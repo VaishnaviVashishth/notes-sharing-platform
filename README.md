@@ -88,7 +88,7 @@ npm install
 
 ---
 
-###3️⃣ Add Environment Variables
+3️⃣ Add Environment Variables
 Create a .env file inside the backend folder and add:
 MONGO_URI=your_mongodb_connection_string
 ADMIN_EMAIL=your_admin_email
@@ -96,12 +96,12 @@ ADMIN_PASS=your_admin_password
 
 ---
 
-###4️⃣ Start the Server
+4️⃣ Start the Server
 node server.js
 
 ---
 
-###5️⃣ Open the Frontend
+5️⃣ Open the Frontend
 Open this file in your browser:
 frontend/login.html
 
