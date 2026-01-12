@@ -103,6 +103,6 @@ node server.js
 
 5️⃣ Open the Frontend
 Open this file in your browser:
-frontend/login.html
+frontend / login.html (open the file using browser)
 
 Now the application is running locally on your system.
